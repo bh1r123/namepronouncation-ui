@@ -1,0 +1,17 @@
+.mainwindow{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.centerwindow{
+    align-items: center;
+    align-content: center;
+    margin-top: 20px;
+    }
+
+    .rowdiv{
+        display: flex;
+        flex-direction: row;
+        padding: 5px;
+    }

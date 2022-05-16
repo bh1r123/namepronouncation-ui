@@ -1,0 +1,13 @@
+.resultwindow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.suggestionswindow{
+    width: 25%;
+}
+
+.pronouncationwindow{
+    width: 75%;
+}
