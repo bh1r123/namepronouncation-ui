@@ -2,6 +2,8 @@
   "name": "namepronouncation-ui",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
+  "homepage": ".",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -43,5 +45,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "babel-plugin-transform-imports": "^2.0.0",
+    "compression-webpack-plugin": "^7.1.2"
+}
 }
